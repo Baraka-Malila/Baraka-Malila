@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Baraka 👋 A passionate developer exploring Machine Learning, web development, and automation.<br><br>I'm open to collaborations in web development and automation projects, and I'm excited to connect with fellow tech enthusiasts.<br><br>**Currently Learning:**<br>Ethical hacking and advanced development techniques<br><br>**Ask Me About:**<br>ML and data analysis<br>Cross-platform development (Linux/Windows)<br>Trading automation (Pine Script, MQL5)<br><br>**Fun Fact:**<br>When I'm not coding, you'll find me on eFootball Mobile as ERROR404 or playing chess as Cyberpunk on Chess.com. Always up for a challenge!<br>
+Hi, I'm Baraka 👋 Passionate developer exploring ML, web development, and automation.<br><br>Open to collaborations and connecting with fellow tech enthusiasts.<br><br>**Currently Learning:** Ethical hacking & advanced development<br>**Ask Me About:** ML, cross-platform development, trading automation (Pine Script, MQL5)<br>**Fun Fact:** Find me gaming as ERROR404 on eFootball or Cyberpunk on Chess.com!<br>
 
 
 ## 🌐 Socials:
@@ -9,16 +9,13 @@ Hi, I'm Baraka 👋 A passionate developer exploring Machine Learning, web devel
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Baraka-Malila&theme=dark&hide_border=false)<br/>
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Baraka-Malila&theme=dark&hide_border=false)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
