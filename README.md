@@ -10,11 +10,11 @@ Hi, I'm Baraka 👋 Passionate developer exploring ML, web development, and auto
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&hide_title=false&card_width=400)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=400&langs_count=8)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Baraka-Malila&theme=dark&hide_border=false)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baraka-Malila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10) |
+|---|---|
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Baraka-Malila&theme=dark&hide_border=false)
 
 </div>
 
